@@ -16,7 +16,7 @@ Download the [fathym.io Battery Shield library folder](https://github.com/fathym
   - Plug your [Battery](https://www.sparkfun.com/products/8483) into your [Battery Shield](https://www.sparkfun.com/products/13626)
   ![Battery](http://community.fathym.com/Files/Storage/fb5a9140-628b-4068-8079-34a199f52578)
   - Align the pins and push your Photon onto your Battery Shield
-  ![Photon Battery Shield](http://community.fathym.com/?partId=1e8aa05a-9e0c-4124-af1e-258f7fe142df)
+  ![Photon Battery Shield](http://community.fathym.com/Files/Storage/1e8aa05a-9e0c-4124-af1e-258f7fe142df)
   - If desired, you can stack this onto the [Photon Sparkfun Weather Shield](https://github.com/fathym/fathym.io_Sparkfun_Photon_WeatherShield)
   ![Weather Battery Shield](http://community.fathym.com/Files/Storage/810eb44a-3212-4cf8-99a0-674fc1b6a57e)
 2. **Download the [fathym.io Battery Shield library folder](https://github.com/fathym/fathym.io_Particle_BatteryShield/blob/master/fathym.io.photon-0.0.1-batteryShield.zip) zip folder from this repo and unzip**
