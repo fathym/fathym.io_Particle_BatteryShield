@@ -6,7 +6,7 @@ Download the [fathym.io Battery Shield library folder](https://github.com/fathym
 ## About 
 [![Fathym logo](http://community.fathym.com/Files/Storage/ef3e1f7f-3303-4296-9660-044c33e60cbd "Fathym Logo")](http://fathym.com) [![Particle logo](http://blog.particle.io/images/particle-horizontal-dark.png "Particle logo")](http://particle.io)
 
-[Fathym](http://fathym.com) is a platform that let's you create powerful, social, front-end apps and dashboards for your IoT projects. With the fathym.io library native to Particle, it's super easy to create dashboards and notifications, and even control your Photon from your own Fathym app! 
+[Fathym](http://fathym.com) is a platform that gives you collaborative, front-end apps, dashboards and notifications for your Particle Photon. Get up and running in the cloud, and even control your photon from your very own Fathym app in minutes. 
 
 # Tutorial
 
