@@ -89,6 +89,7 @@ Download the [fathym.io Battery Shield library folder](https://github.com/fathym
 
 ## Custom Internet of Things Projects
 To use the Battery Shield in any of the following projects, follow these tutorials and uncomment the Battery Shield code in the FathymBuild.h file.
+
 **1. Photon Weather Station**
   - Create a Weather Station using a [Sparkfun Photon Weather Shield](https://www.sparkfun.com/products/13630), a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) (optional) and Fathym. 
   Visit the [fathym.io_Sparkfun_Photon_WeatherShield Repository](https://github.com/fathym/fathym.io_Sparkfun_Photon_WeatherShield) for more info.
