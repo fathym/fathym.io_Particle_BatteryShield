@@ -27,10 +27,10 @@ Download the [fathym.io Battery Shield library folder](https://github.com/fathym
   - For more about working with your Photon, start with the tutorials in the [Particle Guide](https://docs.particle.io/guide/getting-started/intro/photon/)
 4. **Select your device, save, compile, flash**                                       
     ![Particle Icons](http://community.fathym.com/Files/Storage/18dc2dab-fd6e-4754-89ba-28e6611c1dae "Particle Icons")
-  - The .ino should get random test data flowing to Fathym exactly as is, so we'll test everything before messing with the code
+  - The .ino should get data flowing to Fathym exactly as is, so we'll test everything before messing with the code
 5. **Create a new Photon Part in your Fathym Home Space**
   ![Fathym Home](https://41.media.tumblr.com/101c284e6b4c640957cbaa86e444fe32/tumblr_o58dv5IR7S1qcz8h1o2_1280.jpg "Fathym Home")
-  - Create an  account at [community.fathym.com](http.//community.fathym.com) if you haven't already
+  - Create an  account at [community.fathym.com](http://community.fathym.com) if you haven't already
   - From your Home Space, click the plus "+" button to get to the catalog of addable parts
   - Choose the Particle Photon part
   - Add your Photon deviceID, which you can find on your [Particle Dashboard](https://dashboard.particle.io/user/devices)
@@ -49,7 +49,6 @@ Download the [fathym.io Battery Shield library folder](https://github.com/fathym
 2. **Open the Fathym.Build.h file**         
 ![build.h](https://40.media.tumblr.com/7ec2caa15654a3f089cb182301aefcbd/tumblr_o58dv5IR7S1qcz8h1o5_1280.jpg "build.h")
   - Edit the attributes that are automatically sent along with your payload by setting each item to true or false 
-  - Note that the Fathym.io library includes support Photon battery power - enable battery support by uncommenting the code at the bottom of the FathymBuild.h file
 3. **Add additional dashboard visualizations for your device in Fathym**
 ![Fathym Dashboard](https://36.media.tumblr.com/447b4d8abf0869768b89b0411e377eae/tumblr_o2crfxZXFf1qcz8h1o2_1280.jpg "Fathym Dashboard")
   - From inside your Particle Photon part, click the plus "+" button to get to the catalog of addable parts
@@ -87,19 +86,18 @@ Download the [fathym.io Battery Shield library folder](https://github.com/fathym
 3. Change the selected tab in the upper right from "Create New" to "Add Existing
 4. Search the "Existing Catalog" for your Particle Photon Device and Add!
 
-## Custom Internet of Things Projects
-To use the Battery Shield in any of the following projects, follow these tutorials and uncomment the Battery Shield code in the FathymBuild.h file.
-
+## Additional Internet of Things Projects
 **1. Photon Weather Station**
   - Create a Weather Station using a [Sparkfun Photon Weather Shield](https://www.sparkfun.com/products/13630), a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) (optional) and Fathym. 
   Visit the [fathym.io_Sparkfun_Photon_WeatherShield Repository](https://github.com/fathym/fathym.io_Sparkfun_Photon_WeatherShield) for more info.
-
+  
 **2. Photon Plant Monitor**
   - Monitor your plants' health with a [Soil Moisture Sensor](https://www.sparkfun.com/products/13322) and a [Temperature and Humidity Sensor](https://www.sparkfun.com/products/10167?gclid=CLqS-YDTkcwCFQiqaQodCMsK2Q).
   Visit the [fathym.io_Photon_Plant_Monitor Repository](https://github.com/fathym/fathym.io_Photon_Plant_Monitor) for more info.
-
+  
 **3. Photon Door Sensor**
   - Monitor whether your door is opened or closed and get notifications of any changes using a [Magnetic Door Switch Sensor](https://www.sparkfun.com/products/13247).
-  Visit the [fathym.io_Photon_DoorSensor Repository](https://github.com/fathym/fathym.io_Photon_DoorSensor/tree/master) for more info.
+  Visit the [fathym.io_Photon_DoorSensor Repository](https://github.com/fathym/fathym.io_Photon_DoorSensor) for more info.
+
 
   
